@@ -1,0 +1,10 @@
+num_visits	380783
+num_visits	382723
+num_visits	383465
+num_visits	383898
+num_visits	389473
+num_visits	395055
+num_visits	395116
+num_visits	398857
+num_visits	420485
+num_visits	498598
